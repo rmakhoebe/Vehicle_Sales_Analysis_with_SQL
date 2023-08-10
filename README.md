@@ -22,3 +22,6 @@ SQL SKILLS EXPLORED:
 6.	Customer segmentation using Recency-Frequency-Monetary (RFM Analysis)
 
 The dataset is originally from Kaggle and Tableau is used to visualize the outcome.
+
+Link to Tableau Dashboard-1 https://public.tableau.com/views/VehicleSalesDashboard_16911640160420/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+Link to Tableau Dashboard-2 https://public.tableau.com/views/VehicleSalesDashboard_16911640160420/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
